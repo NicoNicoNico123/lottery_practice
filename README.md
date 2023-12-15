@@ -1,8 +1,8 @@
+![Image description](1698140314433.png)
+
 # TensorFlow Practice: Predicting Lottery Results in Google Colab
 
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github/NicoNicoNico123/lottery_practice/blob/main/Final_mark6.ipynb)
-
-![Image description](1698140314433.png)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicoNicoNico123/lottery_practice/blob/main/Final_mark6.ipynb)
 
 This repository provides a hands-on practice for utilizing TensorFlow's predictive modeling capabilities to analyze historical lottery data and attempt to forecast future lottery outcomes. This project serves as a learning tool for individuals interested in exploring the applications of TensorFlow and building their machine learning skills.
 
